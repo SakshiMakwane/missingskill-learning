@@ -46,14 +46,13 @@
   <p>Execution:</p>
   
   
- <p><img src="images/Saved Pictures/ls.png"></p>
+ <p><img src="images/Saved Pictures/ls.png" height="100" width="300"></p>
 
 <p><b>b]ls -l:-</b>It is used to show the list of folder/files with thier access permission</p>
 <p>Synatx: ls -l </p>
 <p>Execution:</p>
   
  <p><img src="images/Saved Pictures/ls- l.png"></p>
- <p><img src="images/Saved Pictures/ls- l1.png"></p>
 
 <p><b>c]ls -h:- </b>It turns some of the details of file which can not be understand by human into human redable format. </p>
 <p>Synatx: ls -l -h </p>
@@ -65,7 +64,6 @@
 <p>Synatx: ls -l -h -t </p>
 <p>Execution:</p>
  <p><img src="images/Saved Pictures/ls -t.png"></p>
-  <p><img src="images/Saved Pictures/ls -t1.png"></p>
 
 
 <p><b>e]ls -r :-</b> It is used as same as ls -t the only difference is it shows first created file at bottom that means it show file in reverse order.</p>
