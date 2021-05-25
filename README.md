@@ -264,8 +264,6 @@
 <p><b>rm-rf :-</b>This command is used to delete multiple directory in the system along with all the file inside the directory.</p>
 <p>Synatx: rm -rf * </p>
 <p>Execution:</p>
-
-<p><img src="images/Saved Pictures/rm-rf1.png"></p>
 <p><img src="images/Saved Pictures/rm-rf2.png"></p>
 
 <li style="color:blue"><h3><b>Cat Command and its variety </b></h3></li>
