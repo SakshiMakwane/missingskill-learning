@@ -281,10 +281,10 @@
 <p><img src="images/Saved Pictures/cat1.png"></p>
 
 <p><b>c] cat:-</b>This command is used by varoius to overwrite the content of existing file.</p>
-<p>Synatx: cat >> [fileName] </p>
+<p>Synatx: cat > [fileName] </p>
 <p>Execution:</p>
 <p><img src="images/Saved Pictures/cat2.png"></p>
-<p><img src="images/Saved Pictures/cat3.png"></p>
+
 
 <li style="color:blue"><h3><b>Command to Show Hidden Files</b></h3></li>
 <p><b> ls-a:-</b>This command is usedto show all the hidden file inside the folder/directory.The hidden files are shown by using (.) symbol.</p>
