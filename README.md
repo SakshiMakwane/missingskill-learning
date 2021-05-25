@@ -1516,6 +1516,3 @@ var person ={"firstName"="Radhika","firstName"="Radhika","age"=25};
 |ParseFloat|It parse through string and return float value.|parseFloat(param)|
 |JSON|JSON is often used to send data overnetwork.|{"key":"Value"}|
 
-
-
-
