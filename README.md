@@ -41,9 +41,14 @@ I hope to learn more things in the future from missing skills.
   * [FUNCTIONS](#functions)
   * [FUNCTION CONSTRUCTOR AND PROTOTYPE](#function-constructor-and-prototype)
      + [CONSTRUCTOR SUMMARY TABLE](#constructor-summary-table)
-  * [ARRAY ,OBJECT AND STRING METHODS](#array--objects-prototype-methods)
+  * [ARRAY ,OBJECT AND STRING METHODS](#array-objects-prototype-methods)
   * [BUILT-IN-FUNCTION IN ES6](#built-in-function-in-es6)
     + [BUILT-IN-FUNCTION IN ES6 SUMMARY TABLE](#built-in-function-in-es6-summary-table)
+  * [EXTRA SKILLS](#extra-skills)
+    + [HTML](#html)
+    + [CSS](#css)
+    + [SQL](#sql)
+     
 
 # LINUX
 ## HISTORY OF LINUX
@@ -1525,13 +1530,15 @@ It tell where the elements of the page will be dislpay.The important elements of
 <tagname>CONTENT</tagname>
 ```
 <img src ="images/Saved Pictures/html.png">
+
 ## CSS
-CSS is used to style the webpage.It stands for CASCADING STYLE SHEET.
+CSS is used to style the webpage.It stands for **CASCADING STYLE SHEET**.
 It is like an animation given to files.It is used to change font , color, size etc.
 It is used to change the look of the element structed in the html file .Save with the (extension .css)
 <img src ="images/Saved Pictures/css.png">
+
 ## SQL
-SQL stands for _STRUCTURED QUERRY LANGUAGES_.
+SQL stands for **STRUCTURED QUERRY LANGUAGES**.
 It is used to manipulate,store,retrive,delete the data.
 <img src ="images/Saved Pictures/sql.png">
 
