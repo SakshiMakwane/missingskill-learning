@@ -46,13 +46,13 @@
   <p>Execution:</p>
   
   
- <p><img src="images/Saved Pictures/ls.png" height="100" width="300"></p>
+ <p><img src="images/Saved Pictures/ls.png" height="100px" width="300px"></p>
 
 <p><b>b]ls -l:-</b>It is used to show the list of folder/files with thier access permission</p>
 <p>Synatx: ls -l </p>
 <p>Execution:</p>
   
- <p><img src="images/Saved Pictures/ls- l.png"></p>
+ <p><img src="images/Saved Pictures/ls- l.png" height="100px" width="300px"></p>
 
 <p><b>c]ls -h:- </b>It turns some of the details of file which can not be understand by human into human redable format. </p>
 <p>Synatx: ls -l -h </p>
