@@ -1524,28 +1524,17 @@ It tell where the elements of the page will be dislpay.The important elements of
 ```html
 <tagname>CONTENT</tagname>
 ```
-### BASIC TAGS OF HTML
-|Sr.No|TagName|Synatx|Used For|OPenTag|ClosingTag|
-|------|-------|------|--------|------|-----------|
-|1|DOCTYPE|<!DOCTYPE>|TO TELL THE TYPE OF DOCUMENT IS |YES|NO|
-|2|HTML|<HTML></HTML>|ALWAYS STARTS WITH HTML TAG|YES|YES|
-|3|BODY|<BODY></BODY>|IT DISPLAY THE CONTENT INSIDE IT ON WEBPAGE|YES|YES|
-|4|HEAD|<HEAD></HEAD>|Contain meta data|yes|yes|
-|5|TITLE|<TITLE></TITLE>|To show the title in browser title bar|yes|yes|
-|6|H1-H6|<H1></H1>|To give heading|yes|yes|
-|7|LINK|<a href=""></a>|To provide link to pages|yes|yes|
-|8|IMAGE|<img src="">|to show image in page|yes|no|
-|9|LIST|html Ordered list:<ol type="1/i/I/A/a"><li>CONTENT</li></ol>,Unordered list:<ul type="circle/square/disc"><li></li></ul>|used to show list|yes|yes|
-|10|FORM|<form></form>|used to collect data from user|yes|yes|
-|11|TABLE|<table></table>|to create table |yes|yes|
-
+<img src ="images/Saved Pictures/html.png">
 ## CSS
 CSS is used to style the webpage.It stands for CASCADING STYLE SHEET.
 It is like an animation given to files.It is used to change font , color, size etc.
 It is used to change the look of the element structed in the html file .Save with the (extension .css)
-
+<img src ="images/Saved Pictures/css.png">
 ## SQL
 SQL stands for _STRUCTURED QUERRY LANGUAGES_.
 It is used to manipulate,store,retrive,delete the data.
+<img src ="images/Saved Pictures/sql.png">
+
+
 
 
