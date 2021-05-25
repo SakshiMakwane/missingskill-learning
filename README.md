@@ -71,7 +71,7 @@
 <p><b>e]ls -r :-</b> It is used as same as ls -t the only difference is it shows first created file at bottom that means it show file in reverse order.</p>
 <p>Synatx: ls -l -h -t -r </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/ls -t.png"></p>
+ <p><img src="images/Saved Pictures/ls -r.png"></p>
 
 <p><b>f]ls -F:- </b>If the list conatain directory then it will added **/** in front of directory</p>
 <p>Synatx:  ls -l -h -t -r -F </p>
