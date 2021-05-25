@@ -1,6 +1,5 @@
 
  <h1>Missing-Skill-Learning Report</h1>
- <h3>By Sakshi R. Makwane.</h3>
 <h1>SUMMARY</h1>
 <p ><i>The missing-skill-learning session helps me to learn new skills in deep. In these sessions, I have learned about Linux, Git, and JavaScript. These sessions of Linux give me a detailed idea of Linux History and the commands. Increase my understanding of Javascript. I think the main part of javascript is the function which was very well described by taking many examples. How the computer contents with each other over the network was explained remarkably in the session of the basic building block of web development. 
  
