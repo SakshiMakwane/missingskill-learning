@@ -4,7 +4,7 @@
 <h1>SUMMARY</h1>
 <p ><i>The missing-skill-learning session helps me to learn new skills in deep. In these sessions, I have learned about Linux, Git, and JavaScript. These sessions of Linux give me a detailed idea of Linux History and the commands. Increase my understanding of Javascript. I think the main part of javascript is the function which was very well described by taking many examples. How the computer contents with each other over the network was explained remarkably in the session of the basic building block of web development. 
  
-Before learning things from missing skills I had some knowledge of Linux and javascript. But learning from missing-skills expand my skills. The most interesting and new part for me was learning Git Hub. but never used git hub it was amazing to see how the git hub helps the programmers to work with each other from different places on the same project simultaneously. By creating the repository, push-pull request, creating new branches to merging them. It was something new that I learned beautifully.
+Before learning things from missing skills I had some knowledge of Linux and javascript. But learning from missing skills expand my skills. The most interesting and new part for me was learning Git Hub. but never used git hub it was amazing to see how the git hub helps the programmers to work with each other from different places on the same project simultaneously. By creating the repository, push-pull request, creating new branches to merging them. It was something new that I learned beautifully.
 
 I hope to learn more things in the future from missing skills.
  
@@ -614,15 +614,15 @@ If you want to see files/directory inside your root folder used the given comman
 |Sr.No|File System|Used For|
 |------|-----------|--------|
 |1|/boot|In boot folder kernel is located/stored|
-|2|/bin|Bin contain binary files.|
-|3|/sbin|The sbin file cannot be used by noraml user it can only be access by system admin.sbin represent system binary files.|
+|2|/bin|Bin contains binary files.|
+|3|/sbin|The sbin file cannot be used by the normal user it can only be accessed by the system admin. sbin represents system binary files.|
 |4|/lib|System library is stored here.|
-|5|/home|The directory is where new user is created|
+|5|/home|The directory is where a new user is created|
 |6|/root|The home folder for root user only admin can access this folder|
 |7|/etc|System level configuration information is given|
-|8|/dev|File contain external device information.|
-|9|/opt|It will store user level software and aslo keep track of that software.|
-|10|/tmp|It is used when system want to store something temporary.|
+|8|/dev|File contains external device information.|
+|9|/opt|It will store user-level software and also keep track of that software.|
+|10|/tmp|It is used when the system wants to store something temporary.|
 |11|/usr|User related resources are available here(user system resources)|
 |12|/var|System level variables are stored here.|
 
@@ -632,9 +632,9 @@ If you want to see files/directory inside your root folder used the given comman
 ## GIT BASIC
 <img src="images/Saved Pictures/git.png">
 
-<p>After creating a file and commiting the file .
- we can used different command to see how our project is working.
- some important and regularly used command are shom below:-</p>
+<p>After creating a file and committing the file.
+ we can use a different command to see how our project is working.
+ some important and regularly used command are shown below:-</p>
  
  <ol type="1">
  <li><b>Git Status</b> :- To see the status of our repository</li>
@@ -949,7 +949,7 @@ JavaScript **variables** are **containers** for storing data.
 Their are **_three_** variables in JavaScript.
 
 1.**Var**
-This variable is declare in ES5 script.It has functional scope.You can re-declare var many times.You can update variable.
+This variable is declared in the ES5 script. It has functional scope. You can re-declare var many times. You can update the variable.
 
 **_Syntax: var VariableName = Value;_**
 
@@ -959,7 +959,7 @@ var b = "myName";
 var c = "true";
 ```
 2.**Let**
-This variable is declare in ES6 due to drowback of _var_ Variable.It has lexical scope.You cannot redeclare _let_ varibale. You can update it.
+This variable is declared in ES6 due to the drawback of _var_ Variable. It has lexical scope. You cannot redeclare _let_ variable. You can update it.
 
 **_Synatx: let VariableName = Value;_**
 
@@ -971,7 +971,7 @@ let a =7; //will throw error
 ```
 
 3.**Const**
-This variable is declare in ES6 due to drowback of _var_ Variable.It has lexical scope.You cannot redeclare _const_ varibale. You cannot update it.
+This variable is declared in ES6 due to the drawback of _var_ Variable. It has lexical scope. You cannot redeclare _const_ variable. You cannot update it.
 
 **_Synatx: const VariableName = Value;_**
 
@@ -991,24 +991,24 @@ const val = "Hello";          //will throw error
 
 ## DATATYPES
 
-Datatypes is used to tell us the which type of variable or value is used.
-Their are two types of datatypes in JavaScript.
+Datatypes are used to tell us which type of variable or value is used.
+There are two types of data types in JavaScript.
 
-**1.Premitive**(You cannot Change)
+**1.Primitive**(You cannot Change)
 - Number
 Number can be write in deciaml or without decimal.
 ``` JAVASCRIPT
 var x = 5;
 var y= 3.10;
 
-if you see typeof these variable you will following type.
+if you see the type of these variables you will following type.
 typeof (x);
 Number
 typeof (y);
 Number
 ```
 - String
-Every value you write inside **""** will consider as String in JavaScript.
+Every value you write inside **"** will consider as String in JavaScript.
 
 ``` JAVASCRIPT
 var x = "Sasha";
@@ -1035,7 +1035,7 @@ typeof (a);
 undefined
 ```
 - Null
-by default the type of null falls under Non-premitive object type.Used to give null value as input.
+by default, the type of null falls under the Non-primitive object type. Used to give null value as input.
 
 - Symbol(ES6)
 
@@ -1115,12 +1115,12 @@ output: 3
 ```
 
 3. **Lexical Scope** 
-when varibale define inside any {} it is known as lexical scope
+when variable define inside any {} it is known as lexical scope
 
 A.**Let**
 
 1.**Local Scope**
-variable declare within function can only access by function.
+a variable declared within a function can only access by function.
 ``` JAVASCRIPT
 {                                 
 let x = 10;                               
@@ -1143,7 +1143,7 @@ else{                       //lexical scope
 }                                 
 ```
 2.**global Scope**
-variable declare outside the function can  access by  any function.
+a variable declared outside the function can access by any function.
 ``` JAVASCRIPT
 let y = 15;
 {
@@ -1171,7 +1171,7 @@ B.**Const**
 
 1.**Local Scope**
 
-variable declare within function can only access by function.
+a variable declared within a function can only access by function.
 ``` JAVASCRIPT
 {                                 
 const x = 10;                               
@@ -1194,7 +1194,7 @@ else{                       //lexical scope
 }                                 
 ```
 2.**global Scope**
-variable declare outside the function can  access by  any function.
+a variable declared outside the function can access by any function.
 ``` JAVASCRIPT
 const y = 15;
 {
@@ -1222,7 +1222,7 @@ else{ console.log(y);                 //lexical scope
 
 A.**Copy By Value**
 
-value will store in the initialize variable.Primitive datatype used as copy by value.
+the value will store in the initialized variable. Primitive datatype used as copy by value.
 
 ``` JAVASCRIPT
 function square(x)
@@ -1237,7 +1237,7 @@ console.log(result);          //100
 -------------
 output:100
 ```
-**_If it is done by using call by reference then the value of y will also changed._**
+**_If it is done by using call by reference then the value of y will also be changed._**
 
 
 
@@ -1256,10 +1256,10 @@ output:
 { Name:Tanu,**rollno:20**,class=5th,subject:Maths}
 {Name:Tanu,**rollno:20**,class=5th,subject:Maths}
 ```
-**_From output it means if you do any changes in one filed and pass it reference to another the changes will display in another field also._**
+**_From the output it means if you do any changes in one file and passes its reference to another the changes will display in another field also._**
 
 ## FUNCTIONS
-A function is a block of code design to perfrom specific task.We can pass function as _parameter_ also.Pure Function dont modify values outside the function,Pure function also return same values passed as input.High order Function that takes function as parameter and returns function. 
+A function is a block of code design to perform a specific task. We can pass a function as _parameter_ also. Pure Function doesn't modify values outside the function, Pure function also returns the same values passed as input. High order Function that takes a function as parameter and returns function. 
 
 **Properties of Function**
 - Hoisting
@@ -1267,10 +1267,10 @@ A function is a block of code design to perfrom specific task.We can pass functi
 - Scope
 - Act as a container
 - objects
-- Normal declareation using function name
+- Normal declaration using the function name
 - Function can be assigned to a variable.
 - function can be return from another function
-- function retuns a function
+- function returns a function
 
 Synatx:
 ``` JAVASCRIPT
@@ -1289,9 +1289,9 @@ retun a+b;
 -------------------
 output:9
 ```
-**IIFE(Imediatedly invoked function expression)**
+**IIFE(Immediately invoked function expression)**
 
-Self executing function expression(SEF)
+Self-executing function expression(SEF)
 
 Syntax:
 ``` JAVASCRIPT
@@ -1329,7 +1329,7 @@ Output:
 Sasha 2
 
 ```
-**Prototype is an object .Acts as a method.Prototype is used to add new property to constructor function.**
+**Prototype is an object. Acts as a method. The prototype is used to add a new property to the constructor function.**
 
 ``` JAVASCRIPT
 Function Person(name,exp){
@@ -1346,7 +1346,7 @@ Sasha 2 25
 
 ```
 
-**Built in Constructors**
+**Built-in Constructors**
 
 1. var car  = new Object();                                                    //A new Object    object  
   
@@ -1392,7 +1392,7 @@ Sasha 2 25
   |Math ()|Math.floor();|
   
   
- ## ARRAY , OBJECTS, STRING METHODS
+ ## ARRAY, OBJECTS, STRING METHODS
  
  1.**Array**
  ``` JAVASCRIPT
@@ -1479,7 +1479,7 @@ counter++;
 },3000);
 ```
 3.**ParseInt**
-It converts any thing into integer number.It is very risky never used it in mathematical operation.
+It converts anything into an integer number. It is very risky to never use it in mathematical operations.
 ``` JAVASCRIPT
 const num = 10.18;
 
@@ -1489,7 +1489,7 @@ console.log(intNum)
 Output:10
 ```
 4.**ParseFloat**
-It parse through string and return float value.It is very risky never used it in mathematical operation.
+It parses through the string and returns a float value. It is very risky, never use it in the mathematical operation.
 ``` JAVASCRIPT
 const num = Sak9.2;
 
@@ -1499,7 +1499,7 @@ console.log(intNum)
 Output:9.2
 ```
 5.**JSON**
-JSON is often used to send data overnetwork.
+JSON is often used to send data over the network.
 JSON format is same as object the only difference it used "" to write key  .Write using {"Key":"Value"}.
 Example:
 ``` JAVASCRIPT
