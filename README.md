@@ -295,7 +295,7 @@
 <p><b> clear:-</b>This command is used to clear the screen</p>
 <p>Synatx: clear</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/clear.png" height="100px" width="300px"></p>
+<p><img src="images/Saved Pictures/clear.png" width="300px"></p>
 
 
 </ol>
