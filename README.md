@@ -485,7 +485,7 @@ I hope to learn more things in the future from missing skills.
   </tr>
   <tr><td>32</td>
   <td>mkdir</td>
-  <td>mkdir [folderName1/folderName2]</td>
+  <td>mkdir [folderName1/folderName2] -p</td>
   <td>create folder inside folder</td>
   </tr>
   <tr><td>33</td>
