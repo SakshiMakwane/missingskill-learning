@@ -178,7 +178,7 @@ I hope to learn more things in the future from missing skills.
 <p>This command is used to display all the running application on the system.</p>
 <p>Synatx: ps -ef</p>
 <p>Execution:</p>
-<p><img src="images/Camera Roll/ps -ef.png"  width="300px"></p>
+<p><img src="images/Camera Roll/ps-ef.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>touch</b></h3></li>
 <p>This command is used to create file.</p>
@@ -271,10 +271,12 @@ I hope to learn more things in the future from missing skills.
 <p>Synatx: cat >> [fileName] </p>
 <p>Execution:</p>
 <p><img src="images/Camera Roll/catwrite.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/catfile.png"  width="300px"></p>
 
 <p><b>c] cat:-</b>This command is used by varoius to overwrite the content of existing file.</p>
 <p>Synatx: cat > [fileName] </p>
 <p>Execution:</p>
+ <p><img src="images/Camera Roll/catfile.png"  width="300px"></p>
 <p><img src="images/Camera Roll/catoverwrite.png"  width="300px"></p>
 
 
