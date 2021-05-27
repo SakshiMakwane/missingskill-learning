@@ -21,7 +21,7 @@ I hope to learn more things in the future from missing skills.
 - [GIT](#git)
   * [GIT BASIC](#git-basic)
     + [SUMMARY TABLE](#summary-table-2)
-  * [BASIC BUILDING BLOCK OF WEB DEVELOPMENT](#basic-building-block-of-web-development)
+ - [BASIC BUILDING BLOCK OF WEB DEVELOPMENT](#basic-building-block-of-web-development)
     + [SUMMARY TABLE](#summary-table-3)
 
      
@@ -767,7 +767,7 @@ If you want to see files/directory inside your root folder used the given comman
 
  </table>
 
-## BASIC BUILDING BLOCK OF WEB DEVELOPMENT
+# BASIC BUILDING BLOCK OF WEB DEVELOPMENT
 <img src="images/Saved Pictures/basicbuilding.png">
 
 ### SUMMARY TABLE
