@@ -40,256 +40,256 @@ I hope to learn more things in the future from missing skills.
   <p>Execution:</p>
   
   
- <p><img src="images/Saved Pictures/ls.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls.png"  width="300px"></p>
 
 <p><b>b]ls -l:-</b>It is used to show the list of folder/files with thier access permission</p>
 <p>Synatx: ls -l </p>
 <p>Execution:</p>
   
- <p><img src="images/Saved Pictures/ls- l.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls-l.png"  width="300px"></p>
 
 <p><b>c]ls -h:- </b>It turns some of the details of file which can not be understand by human into human redable format. </p>
 <p>Synatx: ls -l -h </p>
 <p>Execution:</p>
   
- <p><img src="images/Saved Pictures/ls-h.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls-h.png"  width="300px"></p>
 
 <p><b>d]ls -t:-</b> It is used to show the file which created first at the top of the list.</p>
 <p>Synatx: ls -l -h -t </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/ls -t.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls-t.png"  width="300px"></p>
 
 
 <p><b>e]ls -r :-</b> It is used as same as ls -t the only difference is it shows first created file at bottom that means it show file in reverse order.</p>
 <p>Synatx: ls -l -h -t -r </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/ls-r.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls-r.png"  width="300px"></p>
 
 <p><b>f]ls -F:- </b>If the list conatain directory then it will added **/** in front of directory</p>
 <p>Synatx:  ls -l -h -t -r -F </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/ls-F.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ls-f.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>cd and it variants</b></h3></li>
 <p><b>a]cd:-</b> cd stands for change directory.As the name stated it is used to jump from one directory to other.</p>
 <p>Synatx: cd [fileName]OR[folderName]</p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/cd.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/cd.png"  width="300px"></p>
 
 <p><b>b]cd - :- </b>It is used to jump to home directory.</p>
 <p>Synatx: cd -</p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/cd -.png" width="300px"></p>
+ <p><img src="images/Camera Roll/cd-.png" width="300px"></p>
 
 <p><b>c]cd .. :-</b> Used to jump on previous directory/file</p>
 <p>Synatx: cd .. </p>
 <p>Execution:</p>
- <p> <img src="images/Saved Pictures/cddot.png"  width="300px"> </p>
+ <p> <img src="images/Camera Roll/cddot.png"  width="300px"> </p>
 
 <li style="color:blue"><h3><b>cp</b></h3></li>
 <p><b>a]cp :-</b>stands for copy file.You can copy data to another file OR copy file to another loaction.</p>
 <p>Synatx: cp [filename] [path/to/copy/] </p><p>Synatx: cp filename1 newfilename </p>
 <p>Execuation:</p>
- <p><img src="images/Saved Pictures/cp.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/cp.png"  width="300px"></p>
  
 <p><b>b]cp-rf: copy one floder to another folder-</b>
  <p>Synatx: cp -rf [sourcefolder] [destinationfolder/] </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/cp-rf.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/cp-rf.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>mv</b></h3></li>
 <p>mv stands for move. It is used to move file.</p>
 <p>Synatx: mv [filename] [path/to/move/] </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/mv.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/mv.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>mv using for renaming</b></h3></li>
 <p>move command is also used to rename the file.</p>
 <p>Synatx: mv [filename1] [newfilename] </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/mv renaming.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/mv renaming.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>rm</b></h3></li>
 <p>rm stands for Remove.It will delete the file from folder/directory.</p>
 <p>Synatx: rm [filename] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/rm.png"  width="300px"></p>
+<p><img src="images/Camera Roll/rm.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>pwd</b></h3></li>
 <p>pwd stands for Print Working Directory. It gives loaction of your current directory.</p>
 <p>Synatx: pwd </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/pwd.png" width="300px"></p>
+<p><img src="images/Camera Roll/pwd.png" width="300px"></p>
 
 
 <li style="color:blue"><h3><b> who</b></h3></li>
 <p>Who command gives us who is the owner/rootuser working currently.</p>
 <p>Synatx: who </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/who.png"  width="300px"></p>
+<p><img src="images/Camera Roll/who.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b> whoami</b></h3></li>
 <p>This command tell us who is the owner.</p>
 <p>Synatx: whoami</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/whoami.png"  width="300px"></p>
+<p><img src="images/Camera Roll/whoami.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b> history</b></h3></li>
 <p>This command is used to tell all the previous command we have used untill now.</p>
 <p>Synatx: history </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/history.png"  width="300px"></p>
+<p><img src="images/Camera Roll/history.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b> exit</b></h3></li>
 <p>It is used to leave the terminal.</p>
 <p>Synatx: exit </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/exit.png"  width="300px"></p>
+<p><img src="images/Camera Roll/exit.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>less</b></h3></li>
 <p>less command show the content of file on a single page aslo give scroll bar .</p>
 <p>Synatx: less [filename] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/less.png" width="300px"></p>
+<p><img src="images/Camera Roll/less.png" width="300px"></p>
 
 <li style="color:blue"><h3><b>more</b></h3></li>
 <p>more command gives content fixed to your terminal page.</p>
 <p>Synatx: more [filename] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/more.png"  width="300px"></p>
+<p><img src="images/Camera Roll/more.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>echo</b></h3></li>
 <p>This command is used to display message on terminal.</p>
 <p>Synatx: echo [message]</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/echo.png"  width="300px"></p>
+<p><img src="images/Camera Roll/echo.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>top</b></h3></li>
 <p>This command is used toshow list of system information and processes.</p>
 <p>Synatx: top</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/top.png" width="300px"></p>
+<p><img src="images/Camera Roll/top.png" width="300px"></p>
 
 <li style="color:blue"><h3><b>ps-ef</b></h3></li>
 <p>This command is used to display all the running application on the system.</p>
 <p>Synatx: ps -ef</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/ps -ef.png"  width="300px"></p>
+<p><img src="images/Camera Roll/ps -ef.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>touch</b></h3></li>
 <p>This command is used to create file.</p>
 <p>Synatx: touch [newfilename] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/touch.png"  width="300px"></p>
+<p><img src="images/Camera Roll/touch.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>ping</b></h3></li>
 <p>This command is used to check the concetivity with outside world.</p>
 <p>Synatx: ping [anyNetworkingSiteName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/ping.png"  width="300px"></p>
+<p><img src="images/Camera Roll/ping.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>ifconfig</b></h3></li>
 <p>It gives you configuration of your system ,for example ip address etc .</p>
 <p>Synatx: ifconfig </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/ifconfig.png"  width="300px"></p>
+<p><img src="images/Camera Roll/ifconfig.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>ssh</b></h3></li>
 <p>ssh is used to start communication between two hosts and share data with each other.</p>
 <p>Synatx: ssh </p>
 <p>Execution:</p>
- <p><img src="images/Saved Pictures/ssh.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/ssh.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>which</b></h3></li>
 <p>In linux everty thing is stored as file.Which command is used to show the path of any command.</p>
 <p>Synatx: which commandName </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/whichls.png" width="300px"></p>
+<p><img src="images/Camera Roll/which.png" width="300px"></p>
 
 <li style="color:blue"><h3><b>wget</b></h3></li>
 <p>This command is not specific part of linux but it is used to get ipaddress of your system.</p>
 <p>Synatx: wget</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/wget.png"  width="300px"></p>
+<p><img src="images/Camera Roll/wget.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>help</b></h3></li>
 <p>As the name stated itself it helps us to find the infomation we needed about commond or system.</p>
 <p>Synatx: --help OR help </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/help.png"  width="300px"></p>
+<p><img src="images/Camera Roll/help.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>mkdir</b></h3></li>
 <p>This command is used to make/create new directory in the system.</p>
 <p>Synatx: mkdir [directoryName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/mkdir.png"  width="300px"></p>
+<p><img src="images/Camera Roll/mkdir.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>Command For Creating Directory With Subdirectory</b></h3></li>
 <p><b>mkdir:-</b>This command is used to directory inside directory in the system.</p>
 <p>Synatx: mkdir [directoryName1/directoryName2] -p </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/mkdir1.png"  width="300px"></p>
+<p><img src="images/Camera Roll/mkdir-p.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>Command For Creating Multiple Directory </b></h3></li>
 <p>This command is used to multiple directory in the system.</p>
 <p>Synatx: mkdir [directoryName1] [directoryName2] [directoryName3]  </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/mkdir2.png"  width="300px"></p>
+<p><img src="images/Camera Roll/multiplemkdir.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>Command For Deleting Directory </b></h3></li>
 <p><b>rmdir:- </b>This command is used to delete directory in the system.</p>
 <p>Synatx: rmdir [directoryName]  </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/rmdir1.png"  width="300px"></p>
+<p><img src="images/Camera Roll/rmdir.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>Command For Deleting Multiple Directory </b></h3></li>
 <p><b>rm-rf  :-</b>This command is used to delete  directory in the system along with all the file inside the directory.</p>
 <p>Synatx: rm -rf [directoryName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/rm-rf.png"  width="300px"></p>
+<p><img src="images/Camera Roll/rm-rf.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>Command For Deleting Multiple Directory </b></h3></li>
 <p><b>rm-rf :-</b>This command is used to delete multiple directory in the system along with all the file inside the directory.</p>
 <p>Synatx: rm -rf * </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/rm-rf2.png"  width="300px"></p>
+<p><img src="images/Camera Roll/rm-rf1.png"  width="300px"></p>
 
 <li style="color:blue"><h3><b>Cat Command and its variety </b></h3></li>
 <p><b> cat:-</b>This command is used by varoius to display , modify , Or overwrite the data.</p>
 <p><b>a] cat:-</b>This command is used by varoius to display content inside the file.</p>
 <p>Synatx: cat [fileName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/cat filename.png"  width="300px"></p>
+<p><img src="images/Camera Roll/catfile.png"  width="300px"></p>
 
 <p><b>b] cat:-</b>This command is used by varoius to modify the content inside the file.</p>
 <p>Synatx: cat >> [fileName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/cat1.png"  width="300px"></p>
+<p><img src="images/Camera Roll/catwrite.png"  width="300px"></p>
 
 <p><b>c] cat:-</b>This command is used by varoius to overwrite the content of existing file.</p>
 <p>Synatx: cat > [fileName] </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/cat2.png"  width="300px"></p>
+<p><img src="images/Camera Roll/catoverwrite.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>Command to Show Hidden Files</b></h3></li>
 <p><b> ls-a:-</b>This command is usedto show all the hidden file inside the folder/directory.The hidden files are shown by using (.) symbol.</p>
 <p>Synatx: ls -a </p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/ls-a.png"  width="300px"></p>
+<p><img src="images/Camera Roll/ls-a.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>Command to clear the screen</b></h3></li>
 <p><b> clear:-</b>This command is used to clear the screen</p>
 <p>Synatx: clear</p>
 <p>Execution:</p>
-<p><img src="images/Saved Pictures/clear.png" width="300px"></p>
+<p><img src="images/Camera Roll/clear.png" width="300px"></p>
 
 
 </ol>
