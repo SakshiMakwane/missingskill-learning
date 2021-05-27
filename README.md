@@ -213,7 +213,7 @@ I hope to learn more things in the future from missing skills.
 
 <li style="color:blue"><h3><b>wget</b></h3></li>
 <p>This command is not specific part of linux but it is used to get ipaddress of your system.</p>
-<p>Synatx: wget</p>
+<p>Synatx: wget [URL]</p>
 <p>Execution:</p>
 <p><img src="images/Camera Roll/wget.png"  width="300px"></p>
 
@@ -455,7 +455,7 @@ I hope to learn more things in the future from missing skills.
   </tr>
   <tr><td>30</td>
   <td>wget</td>
-  <td>wget [ipsiteName]</td>
+  <td>wget [URL]</td>
   <td>gives the ip of system</td>
   </tr>
   <tr><td>31</td>
