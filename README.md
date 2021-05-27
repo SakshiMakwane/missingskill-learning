@@ -96,7 +96,7 @@ I hope to learn more things in the future from missing skills.
 <p><b>b]cp-rf: copy one floder to another folder-</b>
  <p>Synatx: cp -rf [sourcefolder] [destinationfolder/] </p>
 <p>Execution:</p>
- <p><img src="images/Camera Roll/cp-rf.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/cp1.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>mv</b></h3></li>
@@ -109,7 +109,7 @@ I hope to learn more things in the future from missing skills.
 <p>move command is also used to rename the file.</p>
 <p>Synatx: mv [filename1] [newfilename] </p>
 <p>Execution:</p>
- <p><img src="images/Camera Roll/mv renaming.png"  width="300px"></p>
+ <p><img src="images/Camera Roll/mv1.png"  width="300px"></p>
 
 
 <li style="color:blue"><h3><b>rm</b></h3></li>
@@ -155,6 +155,7 @@ I hope to learn more things in the future from missing skills.
 <p>Synatx: less [filename] </p>
 <p>Execution:</p>
 <p><img src="images/Camera Roll/less.png" width="300px"></p>
+ <p><img src="images/Camera Roll/less1.png" width="300px"></p>
 
 <li style="color:blue"><h3><b>more</b></h3></li>
 <p>more command gives content fixed to your terminal page.</p>
@@ -247,7 +248,7 @@ I hope to learn more things in the future from missing skills.
 <p>Execution:</p>
 <p><img src="images/Camera Roll/rmdir.png"  width="300px"></p>
 
-<li style="color:blue"><h3><b>Command For Deleting Multiple Directory </b></h3></li>
+<li style="color:blue"><h3><b>Command For Deleting Directory as well as File Inside It </b></h3></li>
 <p><b>rm-rf  :-</b>This command is used to delete  directory in the system along with all the file inside the directory.</p>
 <p>Synatx: rm -rf [directoryName] </p>
 <p>Execution:</p>
