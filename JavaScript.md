@@ -2,31 +2,7 @@
 
 # JAVASCRIPT
 
-# Content Table
-- [JAVASCRIPT](#javascript)
-  * [JAVASCRIPT HISTORY AND BASIC](#javascript-history-and-basic)
-    + [CONTROL STRUCTURE SUMMARY TABLE](#control-structure-summary-table)
-    + [ARITHMETIC OPERATOR SUMMARY TABLE](#arithmetic-operator-summary-table)
-    + [LOGICAL OPERATOR SUMMARY TABLE](#logical-operator-summary-table)
-    + [CONDITIONAL OPERATOR SUMMARY TABLE](#conditional-operator-summary-table)
-  * [VARIABLES](#variables)
-    + [VARIABLES SUMMARY TABLE](#variables-summary-table)
-  * [DATATYPES](#datatypes)
-    + [DATATYPE SUMMARY TABLE](#datatype-summary-table)
-  * [SCOPE](#scope)
-    + [FUNCTIONAL SCOPE](#functional-scope)
-    + [LEXICAL SCOPE](#lexical-scope)
-  * [COPY BY VALUE COPY BY REFERENCE](#copy-by-value-or-copy-by-reference)
-  * [FUNCTIONS](#functions)
-  * [FUNCTION CONSTRUCTOR AND PROTOTYPE](#function-constructor-and-prototype)
-     + [CONSTRUCTOR SUMMARY TABLE](#constructor-summary-table)
-  * [ARRAY ,OBJECT AND STRING METHODS](#array-objects-prototype-methods)
-  * [BUILT-IN-FUNCTION IN ES6](#built-in-function-in-es6)
-    + [BUILT-IN-FUNCTION IN ES6 SUMMARY TABLE](#built-in-function-in-es6-summary-table)
-  * [EXTRA SKILLS](#extra-skills)
-    + [HTML](#html)
-    + [CSS](#css)
-    + [SQL](#sql)
+
 
 ## JAVASCRIPT HISTORY AND BASIC
 <img src="images/Saved Pictures/js.png">
